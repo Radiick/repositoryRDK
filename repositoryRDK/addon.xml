@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repositoryRDK" name="Radiick Repo" version="1.5" provider-name="Radiick">
+<addon id="repositoryRDK" name="Radiick Repo" version="1.6" provider-name="Radiick">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/Radiick/repositoryRDK/master/zips/addons.xml</info>
